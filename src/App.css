@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+.button{
+  background-color: aquamarine;
+}
+.button:hover{
+  background-color: darkcyan;
+}
+body{
+  background-color: rgb(35, 154, 183);
+}
